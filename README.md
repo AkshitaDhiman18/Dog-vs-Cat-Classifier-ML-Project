@@ -84,13 +84,8 @@ Dog-vs-Cat-Classifier-ML-Project/
 ├── README.md
 │
 ├── dataset/
-│   ├── cats/
-│   └── dogs/
-│
-├── images/
-│
-└── assets/
-```
+   ├── cats/
+   └── dogs/
 
 ---
 
